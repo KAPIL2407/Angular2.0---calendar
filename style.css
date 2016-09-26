@@ -1,0 +1,60 @@
+body{background-color:
+palegreen;padding:32px;margin:32px;font-family:Roboto,Arial,sans-serif;font-size:16px}
+
+header nav a{
+        cursor: pointer;
+        color: red;
+        font-weight: bold;
+        text-decoration: none;
+        text-align: center;
+}
+header nav{
+        text-align: center;
+        border: 1px solid;
+}
+
+div a{
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 150%;
+        color: darkblue;
+        border: 1px solid;
+
+}
+
+.clicked{
+        font-weight: bold;
+    background:yellow;
+    color: white !important
+}
+
+.extra_li{
+        margin-right: -6px;
+}
+
+div{
+        font-weight: bold;
+        text-align: center;
+        font-size: 150%;
+        color: red;
+        text-decoration: none;
+}
+
+ul{
+        text-align: center;
+        font-size: 120%;
+        color: green;
+        text-decoration: none;
+}
+
+
+li{
+        font-size: 120%;
+        color: green;
+        text-decoration: none;
+}
+
+.info{
+        color: orange;
+        font-size: 70%;
+}
